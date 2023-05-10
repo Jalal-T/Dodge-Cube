@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+canvas {
+  border: solid grey;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+h2 {
+  font-size: 75px;
+}
+
+button {
+  font-size: 100px;
+}
+
+button:hover {
+  cursor: pointer;
+}
